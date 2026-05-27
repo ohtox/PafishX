@@ -52,6 +52,6 @@ int main(void) {
     check_acpi_tables();
     check_storage_realism();
 
-    log_info("All basic checks completed.");
+    log_info("All checks completed.");
     return 0;
 }
