@@ -3,10 +3,6 @@
 PafishX is a Windows environment inspection tool inspired by Pafish.  
 It runs a collection of checks to figure out whether the system looks like a physical machine or something running inside a virtual machine / sandbox.
 
-It doesn’t try to block anything or make decisions — it just prints what it finds and leaves interpretation to you.
-
-The goal is simple: understand what Windows exposes when it’s being analyzed, virtualized, or instrumented.
-
 ---
 
 ## What it checks
